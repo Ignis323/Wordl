@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lingo">
+</Property><Property Name="Solution File" Value="C:\Users\Benzi\Documents\Projects\Lingo\Lingo.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Benzi\Documents\Projects\Lingo\Lingo.suo">
+</Property><Property Name="Date" Value="Tuesday, August 14, 2007">
+</Property><Property Name="Time" Value="20:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lingo.sln" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Lingo.suo" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo.suo">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Lingo.csproj" Description="Project file successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Lingo.csproj">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Lingo.csproj.user" Description="Project user file successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Lingo.csproj.user">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Lingo.cs" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Lingo.cs">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Lingo.Designer.cs" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Lingo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Program.cs" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Program.cs">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Cube.ico" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Cube.ico">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Lingo.resx" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Lingo.resx">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Data\Lingo.txt" Description="File successfully backed up as C:\Users\Benzi\Documents\Projects\Lingo\Backup\Lingo\Data\Lingo.txt">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Lingo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Lingo" Source="Lingo\Lingo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lingo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Lingo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lingo" Source="Lingo\Lingo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

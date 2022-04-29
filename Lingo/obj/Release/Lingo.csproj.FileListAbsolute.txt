@@ -1,0 +1,14 @@
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.csproj.AssemblyReference.cache
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.Lingo.resources
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.Properties.Resources.resources
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.AboutLingo.resources
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.csproj.GenerateResource.cache
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.csproj.CoreCompileInputs.cache
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.exe
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.pdb
+C:\Users\Ignis\source\repos\Lingo\Lingo\bin\Release\Lingo.exe.manifest
+C:\Users\Ignis\source\repos\Lingo\Lingo\bin\Release\Lingo.application
+C:\Users\Ignis\source\repos\Lingo\Lingo\bin\Release\Lingo.exe
+C:\Users\Ignis\source\repos\Lingo\Lingo\bin\Release\Lingo.pdb
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.exe.manifest
+C:\Users\Ignis\source\repos\Lingo\Lingo\obj\Release\Lingo.application
